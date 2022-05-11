@@ -1,0 +1,12 @@
+.container{
+   display: flex;
+   flex-wrap: wrap;
+    width: 400px;
+    height: 400px;
+    /* position: absolute; */
+    background: rgb(245, 242, 242);
+    /* top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)  */
+}

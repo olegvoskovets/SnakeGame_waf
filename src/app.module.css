@@ -1,0 +1,18 @@
+.app{
+
+    width: 400px;
+    height: 600px;
+    position: absolute;
+    background: rgb(245, 242, 242);
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) 
+}
+.btn{
+    width: 100%;
+}
+button{
+    width: 90px;
+    margin: 5px;
+}
